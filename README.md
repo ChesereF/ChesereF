@@ -34,9 +34,9 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender algo novo.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChesereF&show_icons=true&theme=merko&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChesereF&show_icons=true&theme=dracula&count_private=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChesereF&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChesereF&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
