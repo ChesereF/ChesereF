@@ -28,7 +28,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender algo novo.
 
 ## Como me encontrar
 
-- Linkedin: [Franciele M. Chesere](https://www.linkedin.com/in/franciele-m-chesere-605974274/)
+- Linkedin: [Franciele Chesere](https://www.linkedin.com/in/franciele-chesere-605974274/)
 
 ## Contato
 
