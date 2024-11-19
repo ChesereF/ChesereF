@@ -5,7 +5,6 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender algo novo.
 ## Sobre mim
 
 - 🎓 Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC.
-- 🌱 Estou focada em aprender e aprimorar minhas habilidades em JavaScript, TypeScript, React.js, Node.js, HTML, CSS e PostgreSQL.
 - 💼 Estou sempre aberta a oportunidades e colaborações em projetos interessantes.
 
 ## Habilidades
